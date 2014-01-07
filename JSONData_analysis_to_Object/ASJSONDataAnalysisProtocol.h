@@ -3,7 +3,7 @@
 //  Octopus_iOS_project1
 //
 //  Created by lx on 14-1-2.
-//  Copyright (c) 2014年 rockmobile. All rights reserved.
+//  Copyright (c) 2014年 Talon. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
